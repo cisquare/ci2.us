@@ -1,6 +1,6 @@
 ---
 title: The Galton Machine and the Normal Distribution
-author: Anonymous
+author: Shuai Huang
 date: '2020-08-30'
 slug: galton-machine-and-normal-distribution
 categories:
