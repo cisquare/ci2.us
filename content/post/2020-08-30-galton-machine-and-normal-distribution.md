@@ -7,6 +7,7 @@ categories:
   - Example
 tags:
   - Normal Distribution
+  - Galton Machine
 ---
 
 How to interpret the normal distribution? 
