@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "ci2.us/"
 languageCode = "en-us"
 title = "Curious Incidents & Crazy Ideas"
 theme = "hugo-xmag"
