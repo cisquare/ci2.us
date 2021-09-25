@@ -24,8 +24,4 @@ The ci2.us is an online community for anyone who wants to share their technical 
   -	Data visualization, case studies, doomsday prophecy, play-this-game, etc.
 
 ## How to submit your article
-
-## Who are we
-Editors:
-Faculty coaches:
-Signed up communities: 
+Email: cisquare.ci2@gmail.com
