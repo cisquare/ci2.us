@@ -4,7 +4,7 @@ author: Shuai Huang
 date: '2021-09-22'
 slug: key-and-lock-paradox
 categories:
-  - Example
+  - thoughts
 tags:
   - deep learning
   - machine learning
