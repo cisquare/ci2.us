@@ -1,6 +1,6 @@
 ---
 title: An Introduction to CI2
-author: Anonymous
+author: ci2
 date: '2020-08-20'
 slug: an-introduction-to-ci2
 categories:
@@ -20,8 +20,5 @@ The ci2.us is an online community for anyone who wants to share their technical 
 - (re)search, archaeologist in the literature
   - Example: what is the origin of normal distribution? When does statistics become a science? Ancient devices for computing.
 -	Dialogue, interviews with professors, PhD students about their thesis project, alumni, etc.
-- Others … 
-  -	Data visualization, case studies, doomsday prophecy, play-this-game, etc.
+- Anything that is about math and fun
 
-## How to submit your article
-Email: cisquare.ci2@gmail.com
