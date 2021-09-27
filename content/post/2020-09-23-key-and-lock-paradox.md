@@ -5,6 +5,7 @@ date: '2021-09-22'
 slug: key-and-lock-paradox
 categories:
   - thoughts
+  - comments
 tags:
   - deep learning
   - machine learning
