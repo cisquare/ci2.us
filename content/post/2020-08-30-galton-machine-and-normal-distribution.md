@@ -4,7 +4,7 @@ author: Shuai Huang
 date: '2020-08-30'
 slug: galton-machine-and-normal-distribution
 categories:
-  - (Re)search
+  - Research
 tags:
   - Normal Distribution
   - Galton Machine
