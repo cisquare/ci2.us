@@ -1,6 +1,7 @@
 <script async src="//yihui.name/js/center-img.js"></script>
 
 <footer>
+{{ partial "twitter-card" . }}
 {{ partial "foot_custom.html" . }}
 <div class="footer">
   <ul class="menu">
@@ -41,5 +42,4 @@ hljs.initHighlightingOnLoad();
 {{ end }}
 
 {{ template "_internal/google_analytics.html" . }}
-{{ partial "twitter-card" . }}
 
