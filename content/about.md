@@ -10,7 +10,7 @@ author: Curious Incidents and Crazy Ideas (`CI^2`)
 - Crazy thoughts, how a thought would change the field 
   -	Example: invite PhD candidates to write about their theses
 - (re)search, archaeologist in the literature
-  - Example: what is the origin of normal distribution? When does statistics become a science? Ancient devices for computing.
--	Dialogue, interviews with professors, PhD students about their thesis project, alumni, etc.
+  - Example: what is the origin of normal distribution? When does statistics become a science? 
+-	Dialogue, interviews with professors, PhD students about their thesis project, alumni, etc
 - Anything that is about math and fun
 
