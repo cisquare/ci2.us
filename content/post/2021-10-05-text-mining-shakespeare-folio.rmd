@@ -1,7 +1,7 @@
 ---
-title: "Text Mining Shakespeare's First Folio"
-author: "Eric Kammers"
-date: "2017-11-27"
+title: Text Mining Shakespeare's First Folio
+author: Eric KammersSecurity
+date: '2017-11-27'
 slug: text-mining-shakespeare-folio
 categories:
   - Data Analysis
