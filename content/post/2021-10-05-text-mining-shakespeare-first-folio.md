@@ -8,7 +8,9 @@ categories:
 tags:
   - text mining
   - Shakespeare 
-  - 
+  - term document
+  - cluster
+  - visualization
 ---
 
 In the age of big data, it is no surprise that the rate data is produced has exponentially increased. In 2013, research company [SINTEF](https://www.sintef.no/en/latest-news/2013/big-data-for-better-or-worse/) cited a claim that 90% of the world's data has been created in just the past two years! While more data is created, this does not necessarily mean inferring conclusions from it has become any easier. For instance, text mining has become a popular form of analysis by formatting text in a quantitative manner. In this post, I wanted to explore some readily available data and the steps it takes to process and format it in an interpretable manner.
@@ -167,7 +169,7 @@ Besides the categories for the plays mentioned in this post (comedies, tragedies
 # Future Work
 
 Another area I would find interesting regarding text mining and Shakespeare is the act structure of a Shakespearean play. All Shakespeare's plays are composed of a five act structure. What if there is some significant signature linking the language used in each act of a Shakespearean play (i.e. is there a way to identify if a text provided is from Act I of any Shakespearean play solely on the language used?).
-My code for the figures and analysis can be found here.
+My code for the figures and analysis can be found [here](https://github.com/ekmmrs/Text-Mining-Shakespeare-s-First-Folio/blob/master/Shakespeare_Text_Mining_Post.Rmd).
 
 
 
