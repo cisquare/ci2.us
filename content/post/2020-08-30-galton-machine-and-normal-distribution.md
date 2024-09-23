@@ -3,11 +3,14 @@ title: The Galton Machine and the Normal Distribution
 author: Shuai Huang
 date: '2020-08-30'
 slug: galton-machine-and-normal-distribution
+image: "images/test2.jpg"
+type: "post"
 categories:
   - Research
 tags:
   - Normal Distribution
   - Galton Machine
+  - featured
 ---
 
 How to interpret the normal distribution? 

@@ -1,7 +1,7 @@
 baseurl = "https://ci2.us"
 languageCode = "en-us"
 title = "Curious Incidents & Crazy Ideas"
-theme = "hugo-xmag"
+theme = "pehtheme-hugo-main"
 googleAnalytics = "UA-178518731-1"
 disqusShortname = ""
 ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
@@ -25,13 +25,13 @@ paginate = 9
     weight = 2
     
 [[menu.main]]
-    name = "Contribute"
-    url = "/contribute/"
+    name = "Submission"
+    url = "/submission/"
     weight = 3
     
 [[menu.main]]
     name = "Subscribe"
-    url = "/index.xml"
+    url = "/subscription/"
     weight = 4
 
     
@@ -39,51 +39,6 @@ paginate = 9
     name = "Feedback"
     url = "/feedback/"
     weight = 5
-
-[[menu.top]]
-  name = "Homepage"
-  url = "/"
-  weight = 10
-
-[[menu.top]]
-  name = "About"
-  url = "/about/"
-  weight = 20
-  
-[[menu.top]]
-  name = "Article"
-  url = "/articles/"
-  weight = 30
-
-[[menu.top]]
-  name = "Submit"
-  url = "/submission/"
-  weight = 40
-  
-[[menu.top]]    
-    name="Search"
-    weight= 50
-
-[[menu.top]]
-    parent = "Search"
-    name = "1-Categories"
-    identifier = "search"
-    url = "/categories/"
-    weight = 51
-    
-[[menu.top]]
-    parent = "Search"
-    name = "2-Tags"
-    identifier = "tags"
-    url = "/tags/"
-    weight = 52
-
-[[menu.top]]
-    parent = "Search"
-    name = "3-Dates"
-    identifier = "dates"
-    url = "/dates/"
-    weight = 53
     
 [params]
     description = "A nerds' journal."
@@ -119,3 +74,9 @@ paginate = 9
     repo = "cisquare/comments"
     issueTerm = "pathname" # choose issue in terms of pathname/url/title
     theme = "github-light"
+    
+[author]
+    authors = [
+      {name = "Dillon Gyotoku", bio = "Dillon Gyotoku is a MS student in the MS&E Department at Stanford.", avatar = "/img/authors/dg.jpg"},
+      {name = "Shuai Huang", bio = "Shuai Huang is a professor in the Industrial Engineering department at the University of Washington.", avatar = "/img/authors/dg.jpg"}
+    ]

@@ -3,6 +3,8 @@ title: Text Mining Shakespeare's First Folio
 author: Eric Kammers 
 date: '2021-11-05'
 slug: text-mining-shakespeare-first-folio
+image: "images/test4.jpg" 
+type: "post"
 categories:
   - Research
   - Data Analysis

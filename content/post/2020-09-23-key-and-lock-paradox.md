@@ -3,6 +3,8 @@ title: A key is made, but what is the lock?
 author: Shuai Huang
 date: '2021-09-22'
 slug: key-and-lock-paradox
+image: "images/test3.png"
+type: "post"
 categories:
   - thoughts
   - comments

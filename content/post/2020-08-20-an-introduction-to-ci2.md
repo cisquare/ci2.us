@@ -3,6 +3,8 @@ title: An Introduction to CI2
 author: ci2
 date: '2020-08-20'
 slug: an-introduction-to-ci2
+image: "images/test1.png"
+type: "post"
 categories:
   - Instruction
 tags:
